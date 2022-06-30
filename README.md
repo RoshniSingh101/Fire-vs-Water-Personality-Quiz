@@ -1,12 +1,8 @@
-# RSPersonalityQuiz
+# RS Personality Quiz
 Fun Quiz to Determine If You Have a Nature Element That Leans Toward Fire or Water
 
-# Personality Quiz Starter Code
-
-This is a place for you to start building your personality quiz!
 
 ### Project Requirements
-Your project should:
 - Have at least three questions.
 - Have at least two answers to each question that correspond to the quiz outcomes.
 - Allow a person to select an answer by clicking a button.
@@ -14,7 +10,6 @@ Your project should:
 
 
 ### Extensions
-You can extend your project further by:
 - Adding more questions to your quiz.
 - Customizing the look and feel with CSS.
 - Allow a person to restart the quiz by clicking a button.
@@ -37,20 +32,20 @@ You can extend your project further by:
 
 ### ← README.md
 
-That's this file. This is the place to tell people more about what your website does and how you built it. 
+Overview of the Personality Quiz
 
 ### ← index.html
 
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
+HTML files are here for content.
 
 ### ← style.css
 
-CSS files add styling rules to your content like changing colors and fonts. 
+CSS files are here to add styling rules.
 
 ### ← script.js
 
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
+JavaScript files are here to add interactivity to the quiz using code to listen for events to then take an action.
 
 ### ← assets
 
-Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
+`assets/example.jpg` or 'assests/example.png' are here for aided visual aids for the project
