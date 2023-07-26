@@ -1,4 +1,4 @@
-# RS Personality Quiz
+# Fire vs. Water Personality Quiz
 Fun Quiz to Determine If You Have a Nature Element That Leans Toward Fire or Water
 
 
